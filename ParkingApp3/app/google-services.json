@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "565310548690",
+    "firebase_url": "https://fireapp-19296.firebaseio.com",
+    "project_id": "fireapp-19296",
+    "storage_bucket": "fireapp-19296.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565310548690:android:6855c9bdba3574fc",
+        "android_client_info": {
+          "package_name": "com.example.amit.parkingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565310548690-5ql3qhstriu5ho0bpvh72br29cg82pr5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.amit.parkingapp",
+            "certificate_hash": "351767d9811f7c83cef55bc4876bc802325e1b76"
+          }
+        },
+        {
+          "client_id": "565310548690-de54sun3afe32h0o4c9kqlqt82id16sa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvwQ_vMwuVRr4N8kwB1oGpsNwf8Yq1CGQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565310548690-de54sun3afe32h0o4c9kqlqt82id16sa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "565310548690-9mc5ejnr062d8bbuu2l31no5vbcn2v9k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fireapp"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
