@@ -1,4 +1,4 @@
-# Smart-Vehicle-Parking-System
+# Smart Vehicle Parking System
 Internet of Things based project
 
 This Smart Vehicle Parking System is an IoT based system. It is used to maintain the status and capacity if parking spaces in a parking lot.
